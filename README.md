@@ -1,3 +1,5 @@
+# Setup
+
 Put your personal API key into `local.properties` to use Google Maps:
 
 ```
